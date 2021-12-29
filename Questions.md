@@ -1,4 +1,5 @@
 # Managing
+* How are the teams organized?
 * Are you doing agile
 * Are you following the 12 principles of agile software development? (https://agilemanifesto.org/)
 * Are you doing SCRUM?
@@ -13,8 +14,9 @@
   * How many clicks
 
 # Code Quality
-* Coding guidelines
-* Static analyzers
+* Are the Coding guidelines are they followed?
+* Do you use Static analyzers / ReSharper?
+* Are you doing TDD?
 
 
 # Programmers

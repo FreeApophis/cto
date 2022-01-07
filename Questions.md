@@ -9,18 +9,29 @@
 * Are you using git?
 * Where are the stories?
 * What IDE are you using?
+* What To
 
 * CI / DI
-  * How many clicks
+  * How many clicks do you need for a build?
+  * Bui
 
 # Code Quality
 * Are the Coding guidelines are they followed?
 * Do you use Static analyzers / ReSharper?
 * Are you doing TDD?
+* Why is QA separete (agile manifest
 
+# Work-life balance
+* How does a typical week look like?
+* How flexible are the working hours?
+
+# Work environment
+* Office size for programmers
 
 # Programmers
 * What is their background?
+* Can I clone a repositry and build without any additional steps?
+* 
 
 # Programming
 ## C#
@@ -29,6 +40,7 @@
 * Do you use the features of the newest version?
 * prefer record?
 * prefer async?
+* How is your front-end done? Blazor?
 
 ## C++
 

@@ -12,7 +12,6 @@
 * Why is QA separate?
 * Is there a daily in every team?
 * How is work estimated? (Who? Poker? Points?)
-* How is home office organized?
 
 # Ownership
 * Who writes user stories?
@@ -21,9 +20,11 @@
 * Who decides if a unit of work is done?
 
 # Tools
-* Are you using git?
-* Where are the stories? 
+* Are you using git? (How big are the repositories)
+* Where are the stories?
 * What IDE are you using? (Resharper) [2] 
+* Do you have a NuGet Server.
+* Do you use github?
 
 # CI / DI
 * Can I clone a repository and build without any additional steps?
@@ -52,6 +53,11 @@
 * What kind of machines the programers have (PC/Laptop, How fast, Sreen, Keyboard, Webcam...)
 * Aircondition / Work temperature in summer?
 
+# Home office
+* How is home office organized?
+* What are the communication tools used?
+* What infrastructure is there to support the employees at home?
+
 # Programmers
 * What is their background?
 * How is knowledge shared?
@@ -63,6 +69,11 @@
 ## Benefits
 * Insurance? BVG?
 * Bonussystem / 13th salery?
+
+## OSS
+
+* Do you have open source projects?
+* Do you support some OSS you are using? Which one?
 
 # Programming
 

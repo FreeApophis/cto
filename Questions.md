@@ -1,17 +1,23 @@
 # Company
 * What is the mission statement of the company?
 * How is the company earning money?
-* What is makes the company unique / interesting?
+* What makes the company unique / interesting?
 * How is the company organized?
+* Why do you have programmers in Switzerland?
 
 # Managing
 * How are the teams organized?
 * Are you doing agile? [2]
 * Are you doing SCRUM? [3]
   * Are your Scrum Masters certified?
-* Why is QA separate?
 * Is there a daily in every team?
 * How is work estimated? (Who? Poker? Points?)
+
+# QA
+
+* Why is QA separate?
+* Can QA impose coding rules on the developers?
+* What is the "reward"-structure of QA? (false incentives)
 
 # Ownership
 * Who writes user stories?
